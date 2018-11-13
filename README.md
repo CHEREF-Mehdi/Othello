@@ -1,6 +1,9 @@
 # Othello
 Creating a game (Othello) and its AI based on ALPHABETA and NegaMax algorithmes using Processing (A free development environment Java library).
 
+The completion date of this project : December 2016
+the time of publication in Github : 13 November 2018
+
 ![alt text](https://github.com/CHEREF-Mehdi/Othello/blob/master/ReadMeImages/start.png)
 
 # About the game
@@ -26,3 +29,8 @@ Move 	 : represents a palyable position for one player.
 Player	 : represents a player who choose the moves.
 
 Tree	 : represents the implemented class for the Artificial Intelligence (AI) including an heuristical methode to choose the best move to play.
+
+
+
+
+
