@@ -17,7 +17,7 @@ Learn the rules of the game : https://www.wikihow.com/Play-Othello
 
 # About the source code
 
-The source code is essentially implemented in Object Oriented, it contains four main Classes :
+The source code is essentially implemented using Object Oriented Programmation, it contains four main Classes :
 
 Position : represents one box of the game matrix.
 Move 	 : represents a palyable position for one player.
