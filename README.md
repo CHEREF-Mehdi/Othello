@@ -32,6 +32,6 @@ Player	 : represents a player who choose the moves to play.
 Tree	 : represents the implemented class for the Artificial Intelligence (AI) including an heuristical methode to choose the best move to play.
 
 
-
+Important : To excute this programme in processing you must install the audio library "minim", for that click on sketch in processing menu, then import Library => add Library and search for "minim" click install. 
 
 
