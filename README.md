@@ -11,6 +11,6 @@ Creating a game (Othello) and its AI based on ALPHABETA and NegaMax algorithmes 
 
 After choosing the color of your pawns a new UI will be launched, giving the possibility to play against the proposed AI :
 
-![alt text]()
+![alt text](https://github.com/CHEREF-Mehdi/Othello/blob/master/ReadMeImages/Play-HU.PNG)
 
 Learn the rules of the game : https://www.wikihow.com/Play-Othello
