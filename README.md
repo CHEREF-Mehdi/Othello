@@ -20,6 +20,9 @@ Learn the rules of the game : https://www.wikihow.com/Play-Othello
 The source code is essentially implemented using Object Oriented Programmation, it contains four main Classes :
 
 Position : represents one box of the game matrix.
+
 Move 	 : represents a palyable position for one player.
+
 Player	 : represents a player who choose the moves.
+
 Tree	 : represents the implemented class for the Artificial Intelligence (AI) including an heuristical methode to choose the best move to play.
