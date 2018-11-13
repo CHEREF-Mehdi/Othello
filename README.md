@@ -1,5 +1,5 @@
 # Othello
-Creating a game (Othello) and its AI based on ALPHABETA and NegaMax algorithmes using Processing (A free development environment Java library).
+Creating a game (Othello) and its AI based on heuristic search algorithms (Alpha-Beta-prunning and NegaMax) using Processing (Java library and a free development environment).
 
 The completion date of this project : December 2016
 
@@ -23,15 +23,15 @@ Learn the rules of the game : https://www.wikihow.com/Play-Othello
 
 The source code is essentially implemented using Object Oriented Programmation, it contains four main Classes :
 
-Position : represents one box in the game matrix.
+Position : represents one box of the game matrix.
 
 Move 	 : represents a palyable position for one player.
 
-Player	 : represents a player who choose the moves to play.
+Player	 : represents a player who choose the moves.
 
-Tree	 : represents the implemented class for the Artificial Intelligence (AI) including an heuristical methode to choose the best move to play.
+Tree	 : represents the implemented class for the Artificial Intelligence (AI) including an heuristical methode to choose the best move.
 
 
-Important : To excute this programme in processing you must install the audio library "minim", for that click on sketch in processing menu, then import Library => add Library and search for "minim" click install. 
+Important : To excute this programme in processing you must install the audio library "minim", for that click on sketch in processing menu, then import Library => add Library and search for "minim" click install. Processing version : 3.4
 
 
