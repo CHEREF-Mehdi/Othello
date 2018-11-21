@@ -35,3 +35,9 @@ Tree	 : represents the implemented class for the Artificial Intelligence (AI) in
 Important : To excute this programme in processing you must install the audio library "minim", for that click on sketch in processing menu, then import Library => add Library and search for "minim" click install. Processing version : 3.4
 
 You are ready to go!!
+
+# About Processing tool
+
+Processing is a Java library and free development environment, created by Benjamin Fry and Casey Reas, two American artists.
+
+URL : https://processing.org/
