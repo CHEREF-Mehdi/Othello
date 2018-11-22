@@ -1,5 +1,5 @@
 # Othello
-Creating a game (Othello) and its AI based on heuristic search algorithms (Alpha-Beta-prunning and NegaMax) using Processing (Java library and a free development environment).
+Implementing a game (Othello) and its AI based on heuristic search algorithms (Alpha-Beta-prunning and NegaMax) using Processing (Java library and a free development environment).
 
 The completion date of this project : December 2016
 
