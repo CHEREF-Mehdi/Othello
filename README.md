@@ -29,7 +29,7 @@ Move 	 : represents a palyable position for one player.
 
 Player	 : represents a player who choose the moves.
 
-Tree	 : represents the implemented class for the Artificial Intelligence (AI) including an heuristical methode to choose the best move.
+Tree	 : represents the implemented class for the Artificial Intelligence (AI) including an heuristical methode choosing the best move.
 
 
 Important : To excute this programme in processing you must install the audio library "minim", for that click on sketch in processing menu, then import Library => add Library and search for "minim" click install. Processing version : 3.4
